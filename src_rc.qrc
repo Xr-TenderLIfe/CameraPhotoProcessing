@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>commont/image/up.png</file>
+        <file>commont/image/logo.ico</file>
+    </qresource>
+</RCC>
