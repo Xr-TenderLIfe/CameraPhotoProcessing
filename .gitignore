@@ -1,0 +1,7 @@
+/build/
+/dist/
+/aqtinstall.log
+/main.spec
+/.idea
+/__pycache__
+/.gitignore
